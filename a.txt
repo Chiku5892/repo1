@@ -1,10 +1,1 @@
- Volume in drive C is Acer
- Volume Serial Number is 2E75-7089
-
- Directory of C:\Users\acer\Desktop\my project
-
-05-03-2022  00:04    <DIR>          .
-04-03-2022  23:58    <DIR>          ..
-05-03-2022  00:04                 0 a.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  106,085,310,464 bytes free
+gg
